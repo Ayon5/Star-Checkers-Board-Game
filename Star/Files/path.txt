@@ -1,0 +1,8 @@
+Pics\\newgame.bmp
+Pics\\resume.bmp
+Pics\\timer.bmp
+Pics\\instructions.bmp
+Pics\\difficulty.bmp
+Pics\\highscore.bmp
+Pics\\exit.bmp
+Pics\\main_menu.bmp

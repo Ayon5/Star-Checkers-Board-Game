@@ -1,0 +1,36 @@
+﻿  iMain.cpp
+c:\program files (x86)\windows kits\8.1\include\shared\minwindef.h(127): warning C4005: 'CALLBACK': macro redefinition
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\glut.h(34): note: see previous definition of 'CALLBACK'
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(47): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(47): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(48): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(48): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(49): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(49): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(50): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(50): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(51): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(51): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(53): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(53): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(54): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(54): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(55): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(55): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(56): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(56): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(57): error C2664: 'UINT_PTR SetTimer(HWND,UINT_PTR,UINT,TIMERPROC)': cannot convert argument 4 from 'void (__cdecl *)(HWND,unsigned int,unsigned int,unsigned long)' to 'TIMERPROC'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\igraphics.h(57): note: None of the functions with this name in scope match the target type
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\procedure.h(93): warning C4477: 'fscanf_s' : format string '%s' requires an argument of type 'unsigned int', but variadic argument 2 has type 'unsigned __int64'
+  c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\procedure.h(93): note: this argument is used as a buffer size
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\procedure.h(102): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1193): note: see declaration of 'fscanf'
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\procedure.h(251): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\procedure.h(204): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\imain.cpp(157): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\imain.cpp(158): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
+c:\users\siam ahmed\desktop\project final\star-20181111t133840z-001\star\star\imain.cpp(159): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: see declaration of 'strcat'
